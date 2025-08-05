@@ -1,0 +1,3 @@
+customtkinter
+pdf2image
+Pillow
